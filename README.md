@@ -100,6 +100,22 @@
 
 ---
 
+## Open-Source Contributions
+
+<div align="center">
+
+| Organization | Contribution | Pull Requests |
+|:------------:|:-----------:|:-------------:|
+| <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> | Bug fixes, API validation, Celery crash fix, DbtCloud trigger fix, RTIF docs | [PR #62657](https://github.com/apache/airflow/pull/62657) (merged) · [PR #62655](https://github.com/apache/airflow/pull/62655) (merged) · [PR #62306](https://github.com/apache/airflow/pull/62306) (merged) · [PR #60488](https://github.com/apache/airflow/pull/60488) (merged) · [PR #63610](https://github.com/apache/airflow/pull/63610) · [PR #62658](https://github.com/apache/airflow/pull/62658) · [PR #62656](https://github.com/apache/airflow/pull/62656) · [PR #61935](https://github.com/apache/airflow/pull/61935) |
+| <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" /> | EMR diagnostics, Python 3.12 compat, docs improvements, refactor fixes | [PR #33562](https://github.com/dagster-io/dagster/pull/33562) · [PR #33444](https://github.com/dagster-io/dagster/pull/33444) · [PR #33303](https://github.com/dagster-io/dagster/pull/33303) · [PR #33263](https://github.com/dagster-io/dagster/pull/33263) · [PR #31999](https://github.com/dagster-io/dagster/pull/31999) |
+| <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> | javax.servlet to jakarta.servlet migration | [PR #52518](https://github.com/apache/spark/pull/52518) |
+| <img src="https://img.shields.io/badge/OpenEdX-02262B?style=for-the-badge&logo=edx&logoColor=white" /> | Fix duplicate team_id assignment bug | [PR #37304](https://github.com/openedx/openedx-platform/pull/37304) |
+| <img src="https://img.shields.io/badge/DeepMCPAgent-181717?style=for-the-badge&logo=github&logoColor=white" /> | MCP safety guardrails, CLI features, project quality improvements | [PR #25](https://github.com/cryxnet/DeepMCPAgent/pull/25) · [PR #8](https://github.com/cryxnet/DeepMCPAgent/pull/8) (merged) · [PR #1](https://github.com/cryxnet/DeepMCPAgent/pull/1) (merged) |
+
+</div>
+
+---
+
 <div align="center">
 
 ## GitHub Stats
