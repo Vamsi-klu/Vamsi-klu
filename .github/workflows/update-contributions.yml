@@ -1,0 +1,37 @@
+name: Update Open-Source Contributions
+
+on:
+  schedule:
+    # Run every 3 days at midnight UTC
+    - cron: "0 0 */3 * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update contributions section
+        id: update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_contributions.py
+
+      - name: Commit and push if changed
+        if: steps.update.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-update open-source contribution statuses"
+          git push
