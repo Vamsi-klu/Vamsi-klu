@@ -1,92 +1,102 @@
+<!-- V2_CURATED_LOCK: DO_NOT_AUTO_EXPAND | Hand-curated profile. Policy: max 140 lines, no raw PR dump, keep teal #00C7B7 theme. -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=520&height=70&duration=3800&pause=900&color=00C7B7&lines=Hi%2C+I%27m+Ramachandra+Nalam" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2a9d8f,00C7B7,40E0D0&height=130&section=header&text=Ramachandra%20Nalam&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Analytics%20Engineer%20%E2%80%A2%20Product%20Analytics%20%E2%80%A2%20Scalable%20Platforms&descAlignY=58" alt="Header: Ramachandra Nalam"/>
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=110&section=header&text=Ramachandra%20Nalam&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38" />
-
-<h3>Data &amp; Analytics Engineer • Product Analytics • Scalable Data Platforms</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&center=true&vCenter=true&width=620&height=45&color=00C7B7&lines=Product+Analytics+%7C+Real-time+Pipelines+%7C+Data+Platforms;100%2B+Upstream+PRs+%E2%80%A2+Building+Reliable+Systems" alt="Typing: Product Analytics, Real-time Pipelines" />
 
 <p>
-  <img src="https://img.shields.io/github/followers/vamsi-klu?style=for-the-badge&logo=github&logoColor=white&color=00C7B7" />
-  <img src="https://img.shields.io/github/repos/vamsi-klu?style=for-the-badge&color=00C7B7" />
-  <img src="https://komarev.com/ghpvc/?username=vamsi-klu&label=views&color=00C7B7&style=for-the-badge" />
-</p>
-
-<p>
-  <a href="https://github.com/vamsi-klu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Vamsi-klu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
   <a href="https://www.linkedin.com/in/ramachandra-nalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nalamvamsi13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://nalamportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/Vamsi-klu?style=flat-square&color=00C7B7&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Vamsi-klu?style=flat-square&color=00C7B7&labelColor=0D1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Vamsi-klu&style=flat-square&color=00C7B7&label=Views" alt="Profile views"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-Experienced Data Engineer specializing in the design and implementation of scalable, high-impact data architectures and robust technical solutions.
+Data Engineer specializing in scalable, high-impact data architectures — turning raw data into reliable product insights.
 
-- 🔭 Hands-on Product Analytics experience
-- 🛠️ Building scalable data pipelines, analytics platforms, and real-time streaming systems
-- 📊 Turning raw data into actionable insights
-- 🚀 Modern data stack: Kafka, Trino, Airflow, Kubernetes, cloud-native tools
-- 🌱 Exploring Rust for high-performance data tooling
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,airflow,spark,kafka,docker,kubernetes,aws,gcp,snowflake,git,github&perline=8&theme=dark" alt="Core skills"/>
-</div>
-
-**Data & Platforms:** Python • SQL • Apache Airflow • Apache Spark • Apache Kafka • Trino • dbt • Snowflake • Kubernetes • Docker • AWS • Google Cloud
-
-**Analytics & Viz:** Power BI • Tableau • Pandas • NumPy • Matplotlib • Plotly • Grafana
-
-**Tools & DevOps:** Git • GitHub Actions • Jira • Postman • Elasticsearch • OpenTelemetry
-
-*(Curated — focused on real strengths, no filler badges)*
+- 🔭 **Product Analytics** + real-time streaming (Kafka, Trino, Flink)
+- 🛠️ **Platforms**: Airflow, Spark, Kubernetes, AWS/GCP, Snowflake
+- 📊 Obsessed with data quality, observability, and cost-efficient pipelines
+- 🌱 Currently exploring Rust for high-performance data tooling
 
 ---
 
-# 📊 GitHub Stats
+## 🔭 Now
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Vamsi-klu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=Vamsi-klu&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi-klu&theme=radical&hide_border=false&layout=compact)
-
-</div>
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Vamsi-klu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Building**: Reliable data systems for product analytics at scale
+- **Learning**: Rust + OpenTelemetry for high-perf pipelines
+- **Contributing**: Upstream fixes to Airflow, Dagster, Airbyte, Pinot
+- **Open to**: Staff/SE data platform roles & deep-tech collaborations
 
 ---
 
-## Open Source Impact
+## 💻 Tech Stack
 
-**100+ PRs • 20+ merged** to major data projects.
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,ts,airflow,spark,kafka,flink,docker,kubernetes,aws,gcp,snowflake,git,github,postgres&perline=7&theme=dark" alt="Skills: Python, Airflow, Spark, Kafka, Flink, Docker, K8s, AWS, GCP, Snowflake, Git, Postgres"/>
+</div>
+
+**Data & Streaming:** Python • SQL • Airflow • Spark • Kafka • Flink • Trino • dbt  
+**Cloud & Infra:** AWS • GCP • Kubernetes • Docker • Snowflake • Postgres • Elasticsearch  
+**Analytics & Viz:** Power BI • Tableau • Pandas • Grafana • Plotly  
+**DevOps:** GitHub Actions • OpenTelemetry • Jira • Postman
+
+> *(Curated — focused on real strengths, no filler badges)*
+
+---
+
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-| Project | Impact | Key Highlights |
-|---------|--------|----------------|
-| **Apache Airflow** | 50+ PRs, 17+ merged. Providers, triggers, pools, API, tests | [#68527](https://github.com/apache/airflow/pull/68527) Databricks proxies • [#68519](https://github.com/apache/airflow/pull/68519) templated JSON • [#68144](https://github.com/apache/airflow/pull/68144) Hive JDBC |
-| **Dagster** | 10+ PRs. dbt, partitions, docs | Multiple robustness & integration fixes |
-| **Airbyte / Pinot / Others** | Connectors, query engine, docs | Freshdesk stream, jsonExtractScalar, Polars/Flink contributions |
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vamsi-klu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub Stats: Commits, PRs, Issues"/>
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi-klu&layout=compact&hide_border=true&title_color=00C7B7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsi-klu&theme=github-compact&color=00C7B7&line=00C7B7&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vamsi-klu&theme=tokyonight&title_color=00C7B7&text_color=c9d1d9&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 
 </div>
 
-[View all PRs](https://github.com/search?q=author%3AVamsi-klu+is%3Apr&type=pullrequests)
+---
+
+## 🚀 Open Source Impact
+
+**100+ PRs • 20+ merged** to major data projects — building upstream, not just using.
+
+### 🔹 Apache Airflow — 50+ PRs (17+ merged)
+> Providers, Triggers, API hardening, Pools & test suites
+- `Databricks proxy fixes` [#68527](https://github.com/apache/airflow/pull/68527) • `Templated JSON secrets` [#68519](https://github.com/apache/airflow/pull/68519) • `Hive JDBC` [#68144](https://github.com/apache/airflow/pull/68144)
+
+### 🔹 Dagster — 10+ PRs
+> dbt integration, partitioned backfills, docs & robustness
+- Multiple stability & DX improvements across dagster-dbt
+
+### 🔹 Airbyte · Apache Pinot · Polars · Flink · Others
+> Connectors & query engine
+- `Freshdesk ticket activities` stream • `jsonExtractScalar` func • doc & test coverage fixes
+
+<p align="center"><a href="https://github.com/search?q=author%3AVamsi-klu+is%3Apr&type=pullrequests">View all PRs →</a></p>
 
 ---
 
@@ -95,22 +105,18 @@ Experienced Data Engineer specializing in the design and implementation of scala
 **Let's build reliable data systems together.**
 
 <p>
-  <a href="https://github.com/vamsi-klu">GitHub</a> • 
+  <a href="https://github.com/Vamsi-klu">GitHub</a> • 
   <a href="https://www.linkedin.com/in/ramachandra-nalam">LinkedIn</a> • 
   <a href="mailto:nalamvamsi13@gmail.com">Email</a> • 
-  <a href="https://portfolio-nc7bmzg2j-ramachandra-nalams-projects.vercel.app">Vercel Portfolio</a>
+  <a href="https://nalamportfolio.dev">Portfolio: nalamportfolio.dev</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=18&duration=2200&pause=1100&color=00C7B7&center=true&vCenter=true&width=460&lines=Thanks+for+visiting!;Data+is+the+new+oil+—+let%27s+refine+it." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=2400&pause=1200&color=00C7B7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✨;Data+is+the+new+oil+—+let's+refine+it." alt="Thanks for visiting"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2a9d8f,00C7B7&height=90&section=footer&text=&animation=fadeIn" alt="Footer wave"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=70&section=footer&text=&fontSize=20&fontColor=fff&animation=twinkling" />
 </div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Vamsi-klu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Beautiful curated version - ready for profile | Last forced: 2026-07-13 06:10 UTC -->
+<!-- Beautiful curated version - ready for profile | V2 polished with unified teal theme, fixed portfolio nalamportfolio.dev, removed fragile widgets, curated impact -->
