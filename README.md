@@ -9,7 +9,6 @@
   <a href="https://github.com/Vamsi-klu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
   <a href="https://www.linkedin.com/in/ramachandra-nalam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nalamvamsi13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nalamportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p>
@@ -107,8 +106,7 @@ Data Engineer specializing in scalable, high-impact data architectures — turni
 <p>
   <a href="https://github.com/Vamsi-klu">GitHub</a> • 
   <a href="https://www.linkedin.com/in/ramachandra-nalam">LinkedIn</a> • 
-  <a href="mailto:nalamvamsi13@gmail.com">Email</a> • 
-  <a href="https://nalamportfolio.dev">Portfolio: nalamportfolio.dev</a>
+  <a href="mailto:nalamvamsi13@gmail.com">Email</a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=2400&pause=1200&color=00C7B7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+✨;Data+is+the+new+oil+—+let's+refine+it." alt="Thanks for visiting"/>
@@ -119,4 +117,4 @@ Data Engineer specializing in scalable, high-impact data architectures — turni
 
 ---
 
-<!-- Beautiful curated version - ready for profile | V2 polished with unified teal theme, fixed portfolio nalamportfolio.dev, removed fragile widgets, curated impact -->
+<!-- Beautiful curated version - ready for profile | V3 no portfolio links, unified teal, curated -->
