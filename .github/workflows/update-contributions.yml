@@ -1,10 +1,7 @@
 name: Update Open-Source Contributions
 
 on:
-  schedule:
-    # Run every 3 days at midnight UTC
-    - cron: "0 0 */3 * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Allow manual trigger only (disabled schedule to prevent overwriting beautiful README)
 
 jobs:
   update-contributions:
