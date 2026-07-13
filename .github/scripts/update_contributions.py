@@ -200,6 +200,14 @@ def update_readme(new_section):
     with open(README_PATH, "r") as f:
         content = f.read()
 
+    if "Beautiful curated version" in content:
+        print("Curated profile README protected (static beautiful version, no auto markers). Skipping update to prevent bloat.")
+        github_output = os.environ.get("GITHUB_OUTPUT", "")
+        if github_output:
+            with open(github_output, "a") as f:
+                f.write("changed=false\n")
+        return False
+
     pattern = re.compile(
         re.escape(START_MARKER) + r".*?" + re.escape(END_MARKER),
         re.DOTALL,
